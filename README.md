@@ -16,7 +16,7 @@ the game features to the user and how the game works.
 
 ## Authors
 
-- Victor Condurat [@Koroem](https://github.com/Koroem) (github)
+- Victor Condurat [@VictorCondurat](https://github.com/VictorCondurat) (github)
 
  
 ## Demos
