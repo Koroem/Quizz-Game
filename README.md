@@ -30,7 +30,7 @@ the game features to the user and how the game works.
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/VictorCondurat/QuizzGame/blob/main/Architecture.pdf)
 
 
 ## Features
